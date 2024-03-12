@@ -17,3 +17,6 @@ on the sale of their products.
 
 <h1>Project Brief</h1>
 <a href="https://github.com/Janelle210/Instacart-Project-01-2024/blob/main/A4_Data_Immersion_Project_Brief.pdf">Instacart Project Brief</a>
+
+<h1>Project Scripts</h1>
+<a href="https://github.com/Janelle210/Instacart-Project-01-2024/tree/main/Scripts">Python Scripts</a>
