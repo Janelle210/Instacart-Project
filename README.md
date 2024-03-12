@@ -14,3 +14,6 @@ on the sale of their products.
 <a href="https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip">Customer data set created by CareerFoundry</a>
 <h1>Instacart Project</h1>
 <a href="https://github.com/Janelle210/Instacart-Project/blob/main/A4_final_report_Janelle_S.xlsx">Instacart Excel</a>
+
+<h1>Project Brief</h1>
+<a href="https://github.com/Janelle210/Instacart-Project-01-2024/blob/main/A4_Data_Immersion_Project_Brief.pdf">Instacart Project Brief</a>
