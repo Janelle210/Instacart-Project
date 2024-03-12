@@ -20,3 +20,6 @@ on the sale of their products.
 
 <h1>Project Scripts</h1>
 <a href="https://github.com/Janelle210/Instacart-Project-01-2024/tree/main/Scripts">Python Scripts</a>
+
+<h1>Project Visuals</h1>
+<a href="https://github.com/Janelle210/Instacart-Project-01-2024/tree/main/Visualizations">Python Visuals</a>
